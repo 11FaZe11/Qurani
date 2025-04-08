@@ -42,11 +42,11 @@
 
 1.  **Clone the Repository**:
     ```bash
-    [git clone https://github.com/11FaZe11/Qurani.git)
+    git clone https://github.com/11FaZe11/Qurani.git
     ```
 2.  **Open the folder directory**:
     ```bash
-    cd Qurani-v3
+    cd Qurani
     ```
 
 3.  **Install Dependencies**:
