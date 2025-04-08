@@ -84,7 +84,7 @@
 
 ## 🌐 Live Demo
 
-Visit the website: [https://v0-quran-app-gamma.vercel.app/](https://v0-quran-app-gamma.vercel.app/)
+Visit the website: [https://qurani-v3.vercel.app/](https://qurani-v3.vercel.app/)
 
 ## 📱 Android Download
 
