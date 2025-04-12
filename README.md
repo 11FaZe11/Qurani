@@ -86,4 +86,9 @@
 
 Visit the website: [https://qurani-aya-dev.vercel.app/](https://qurani-aya-dev.vercel.app/)
 
+<p align="center">
+  <img src="./public/app-demo.png" alt="Quran Player App Screenshot" width="600"/>
+</p>
+
+
 
