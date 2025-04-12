@@ -84,8 +84,6 @@
 
 ## 🌐 Live Demo
 
-Visit the website: [https://qurani-v3.vercel.app/](https://qurani-v3.vercel.app/)
+Visit the website: [https://qurani-aya-dev.vercel.app/](https://qurani-aya-dev.vercel.app/)
 
-## 📱 Android Download
 
-Download the Android App: [https://www.webintoapp.com/store/663371](https://www.webintoapp.com/store/663371)
